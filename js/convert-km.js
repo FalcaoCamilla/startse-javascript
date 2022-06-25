@@ -1,3 +1,5 @@
+//querySelector e textContent
+
 document.querySelector('#t3').textContent='Convertendo Km --> Milhas'
 
 function calculaKmMilha(){
